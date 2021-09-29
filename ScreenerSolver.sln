@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 15 for Windows Desktop
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenerSolver", "ScreenerSolver\ScreenerSolver.csproj", "{6A3036CE-F798-4DBB-BB5E-C2BB18F9BC2F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{2FFC487B-7890-4918-A57A-1C6C87FC039B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A3036CE-F798-4DBB-BB5E-C2BB18F9BC2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A3036CE-F798-4DBB-BB5E-C2BB18F9BC2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A3036CE-F798-4DBB-BB5E-C2BB18F9BC2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A3036CE-F798-4DBB-BB5E-C2BB18F9BC2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FFC487B-7890-4918-A57A-1C6C87FC039B}.Debug|Any CPU.ActiveCfg = Debug
+		{2FFC487B-7890-4918-A57A-1C6C87FC039B}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E5034DA-0835-4FAE-AB6E-B1D6693B9DFA}
+	EndGlobalSection
+EndGlobal

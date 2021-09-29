@@ -1,0 +1,9 @@
+D:\PROJECT\CSharp\ScreenerSolver\ScreenerSolver\bin\Debug\ScreenerSolver.exe.config
+D:\PROJECT\CSharp\ScreenerSolver\ScreenerSolver\bin\Debug\ScreenerSolver.exe
+D:\PROJECT\CSharp\ScreenerSolver\ScreenerSolver\bin\Debug\ScreenerSolver.pdb
+D:\PROJECT\CSharp\ScreenerSolver\ScreenerSolver\obj\Debug\ScreenerSolver.Form1.resources
+D:\PROJECT\CSharp\ScreenerSolver\ScreenerSolver\obj\Debug\ScreenerSolver.Properties.Resources.resources
+D:\PROJECT\CSharp\ScreenerSolver\ScreenerSolver\obj\Debug\ScreenerSolver.csproj.GenerateResource.cache
+D:\PROJECT\CSharp\ScreenerSolver\ScreenerSolver\obj\Debug\ScreenerSolver.csproj.CoreCompileInputs.cache
+D:\PROJECT\CSharp\ScreenerSolver\ScreenerSolver\obj\Debug\ScreenerSolver.exe
+D:\PROJECT\CSharp\ScreenerSolver\ScreenerSolver\obj\Debug\ScreenerSolver.pdb
